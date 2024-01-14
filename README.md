@@ -1,21 +1,21 @@
-# Bienvenue sur mon Profil GitHub ! 👋
+# Welcome to my Github Profile ! 👋
 
-## À Propos de Moi
+## About Me
 
-🎓 Étudiant en développement web fullstack en 4ème année.
+🎓 4th year fullstack web development student.
 
-💻 Passionné par le développement avec TypeScript et .NET.
+💻 Passionate about development with TypeScript and .NET.
 
-🎨 Adorateur de Figma, je m'intéresse particulièrement à l'aspect UI/UX dans le développement.
+🎨 As a Figma fan, I'm particularly interested in the UI/UX aspect of development..
 
-## Compétences
+## Skills
 
 - **Langages :** TypeScript, JavaScript, C#
 - **Frameworks :** React, Node.js, .NET Core, Angular
-- **Bases de Données :** SQL Server
-- **Outils de Conception :** Figma
-- **Autres :** Git, RESTful API, Docker
+- **DataBases :** SQL Server
+- **Design Tools :** Figma
+- **Others :** Git, RESTful API, Docker
 
 ---
 
-*Inspirez-vous, codez avec passion !* 🚀
+*Get inspired and code with passion!* 🚀
