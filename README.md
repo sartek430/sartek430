@@ -1,16 +1,21 @@
-### Hi there 👋
+# Bienvenue sur mon Profil GitHub ! 👋
 
-<!--
-**sartek430/sartek430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À Propos de Moi
 
-Here are some ideas to get you started:
+🎓 Étudiant en développement web fullstack en 4ème année.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionné par le développement avec TypeScript et .NET.
+
+🎨 Adorateur de Figma, je m'intéresse particulièrement à l'aspect UI/UX dans le développement.
+
+## Compétences
+
+- **Langages :** TypeScript, JavaScript, C#
+- **Frameworks :** React, Node.js, .NET Core, Angular
+- **Bases de Données :** SQL Server
+- **Outils de Conception :** Figma
+- **Autres :** Git, RESTful API, Docker
+
+---
+
+*Inspirez-vous, codez avec passion !* 🚀
